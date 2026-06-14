@@ -1,0 +1,3 @@
+# CI replay marker for syntax/go build
+feature_branch: replay-6318bbc0
+workflow: .github/workflows/security-scan.yml
